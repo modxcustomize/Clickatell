@@ -1,0 +1,13 @@
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not copy /private/var/www/modxrevo/core/packages/core/modContext/5f3416170806fe1a0e26927788f90c85/0/ to /private/var/www/modxrevo/index.php
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not copy /private/var/www/modxrevo/core/packages/core/modContext/5f3416170806fe1a0e26927788f90c85/1/ to /private/var/www/modxrevo/ht.access
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not copy /private/var/www/modxrevo/core/packages/core/modContext/9c54115973b570fcaee874a9bad59359/0/ to /private/var/www/modxrevo/manager/assets
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not copy /private/var/www/modxrevo/core/packages/core/modContext/9c54115973b570fcaee874a9bad59359/1/ to /private/var/www/modxrevo/manager/controllers
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not copy /private/var/www/modxrevo/core/packages/core/modContext/9c54115973b570fcaee874a9bad59359/2/ to /private/var/www/modxrevo/manager/templates
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not copy /private/var/www/modxrevo/core/packages/core/modContext/9c54115973b570fcaee874a9bad59359/3/ to /private/var/www/modxrevo/manager/min
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not copy /private/var/www/modxrevo/core/packages/core/modContext/9c54115973b570fcaee874a9bad59359/4/ to /private/var/www/modxrevo/manager/ht.access
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not copy /private/var/www/modxrevo/core/packages/core/modContext/9c54115973b570fcaee874a9bad59359/5/ to /private/var/www/modxrevo/manager/cache.manifest.php
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not copy /private/var/www/modxrevo/core/packages/core/modContext/9c54115973b570fcaee874a9bad59359/6/ to /private/var/www/modxrevo/manager/index.php
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not install files from /private/var/www/modxrevo/core/packages/core/xPDOFileVehicle/1008d29a01e7091350a45441edf7930c/ to /private/var/www/modxrevo/connectors/
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not install files from /private/var/www/modxrevo/core/packages/core/xPDOFileVehicle/a91be4f2e40d67389344a5e652056803/ to /private/var/www/modxrevo/connectors/
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not install files from /private/var/www/modxrevo/core/packages/core/xPDOFileVehicle/ccc06488aaf47ecc71bdb01649feb1cf/ to /private/var/www/modxrevo/connectors/
+[2015-12-07 16:56:27] (ERROR @ /setup/index.php) Could not install files from /private/var/www/modxrevo/core/packages/core/xPDOFileVehicle/30963b7eabfeff616e37446f76e1791e/ to /private/var/www/modxrevo/connectors/
